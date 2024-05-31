@@ -21,6 +21,11 @@
 - #### Make modification in controller, service and module files of both services to perform the operations.
 
 ### Testing (Used Postman)
-
+#### POST: User
+![Post User](https://github.com/AyushiGupta160604/nest-postgres-crud/blob/main/Testing/post%20user.png)
+#### POST: Wallet-Address
+![Post wallet-address](https://github.com/AyushiGupta160604/nest-postgres-crud/blob/main/Testing/post%20walletaddress.png)
+#### Find API
+![Find user from wallet-address](https://github.com/AyushiGupta160604/nest-postgres-crud/blob/main/Testing/find%20walletaddress.png)
 
 ## And boom we are done with task! Additionally performing tests validate the working of the same!!
